@@ -6,7 +6,7 @@ To get experience with tuning and using ensemble methods, and to learn more abou
 
 ## Instructions
 
-Edit [emsemble.ipynb](ensemble.ipynb) by following the instructions you'll find at the top.
+Edit [ensemble.ipynb](ensemble.ipynb) by following the instructions you'll find at the top.
 
 ## Submission
 
