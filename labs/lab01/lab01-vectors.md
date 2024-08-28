@@ -7,11 +7,13 @@ v = \begin{bmatrix}
 2 \\
 -1
 \end{bmatrix}
+,
 
 w = \begin{bmatrix}
 -1 \\
 2
 \end{bmatrix}
+,
 
 b = \begin{bmatrix}
 1 \\
@@ -23,11 +25,29 @@ b = \begin{bmatrix}
 ## Q1
 Draw $v$ and $w$ as arrows in a 2-axis coordinate system (like we did in lecture).  Draw $v + w$.  Draw $v - w$.
 
+<details>
+<summary>Answer</summary>
+
+![imgs/q1.png](Plot of images)
+</details>
+
 ## Q2
 What is the result of this linear combination of vectors v and w (defined in the previous problem)?  
 ```math
 2v - w
 ```
+
+<details>
+<summary>Answer</summary>
+
+```math
+2v - w = \begin{bmatrix}
+5 \\
+-4
+\end{bmatrix{
+```
+
+</details>
 
 Give your answer as a vector, and also draw it.
 
