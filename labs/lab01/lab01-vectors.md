@@ -32,7 +32,8 @@ Draw $v$ and $w$ as arrows in a 2-axis coordinate system (like we did in lecture
 </details>
 
 ## Q2
-What is the result of this linear combination of vectors v and w (defined in the previous problem)?  
+What is the result of this linear combination of vectors v and w (defined in the previous problem)?
+
 ```math
 2v - w
 ```
@@ -44,7 +45,7 @@ What is the result of this linear combination of vectors v and w (defined in the
 2v - w = \begin{bmatrix}
 5 \\
 -4
-\end{bmatrix{
+\end{bmatrix}
 ```
 
 </details>
@@ -57,7 +58,7 @@ Is there a linear combination of $v$ and $w$ that gives the vector $`\begin{bmat
 <details>
 <summary>Answer</summary>
 
-3.	$b = \frac{2}{3}$, $c = \frac{1/3}$
+3.	$b = \frac{2}{3}$, $c = \frac{1}{3}$
 
 </details>
 
@@ -120,8 +121,28 @@ What is the normalized version of $v$?
 <details>
 <summary>Answer</summary>
 
-The missing line can be: 
-`np.sqrt(np.square(x).sum())`
+// todo
+
+```math
+\frac{
+  \begin{bmatrix}
+  2 \\
+  1
+  \end{bmatrix}
+}{
+  \sqrt{5}
+}
+
+=
+
+\begin{bmatrix}
+  \frac{2}{\sqrt{5}} \\
+  \frac{1}{\sqrt{5}} 
+\end{bmatrix}
+
+```
+
+(2, 1) / sqrt(5) = (2/sqrt(5), 1/sqrt(5))
 
 </details>
 
@@ -138,7 +159,8 @@ Compare the result of your function with your answers to problems 6 and 7.
 <details>
 <summary>Answer</summary>
 
-# todo
+The missing line can be:
+`np.sqrt(np.square(x).sum())`
 
 </details>
 
@@ -149,7 +171,7 @@ It is interesting that $`||u|| = \sqrt{u \cdot u}`$ .  Prove this is true, using
 <details>
 <summary>Answer</summary>
 
-# todo
+// todo
 
 </details>
 
