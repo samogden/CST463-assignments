@@ -1,4 +1,4 @@
-#! Lab: Linear Algebra - Vectors
+# Lab: Linear Algebra - Vectors
 
 In the problems below we'll use these vectors, which I will write in text as (2,-1), (-1,2), and (1,0).
 
