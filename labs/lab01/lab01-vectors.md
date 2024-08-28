@@ -29,18 +29,19 @@ Draw $v$ and $w$ as arrows in a 2-axis coordinate system (like we did in lecture
 
 ## Q2
 What is the result of this linear combination of vectors v and w (defined in the previous problem)?  
-$2v - w$
+```math
+2v - w$
+```
 
-## Q3
 Give your answer as a vector, and also draw it.
 
-## Q4
+## Q3
 Is there a linear combination of $v$ and $w$ that gives the vector $(1,0)$ ?  In other words, is there a value $b$ and a value $c$ such that $bv + cw = (1, 0)$ ?
 
-## Q5
+## Q4
 For every point in 2-dimensional space, can the point be expressed as the linear combination of $v$ and $w$?  
 
-## Q6
+## Q5
 Here is an equation involving vectors:
 $x(1,-1) + y(0, 3) = (-1, 4)$
 Can you write this instead as a system of 2 linear equations?  (In other words, 2 linear equations, one above the other.)
