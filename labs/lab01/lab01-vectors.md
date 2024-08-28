@@ -26,7 +26,7 @@ Draw $v$ and $w$ as arrows in a 2-axis coordinate system (like we did in lecture
 ## Q2
 What is the result of this linear combination of vectors v and w (defined in the previous problem)?  
 ```math
-2v - w$
+2v - w
 ```
 
 Give your answer as a vector, and also draw it.
