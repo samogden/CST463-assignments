@@ -28,7 +28,7 @@ Draw $v$ and $w$ as arrows in a 2-axis coordinate system (like we did in lecture
 <details>
 <summary>Answer</summary>
 
-![imgs/q1.png](Plot of images)
+<img src="imgs/q1.png">
 </details>
 
 ## Q2
