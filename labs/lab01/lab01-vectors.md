@@ -69,7 +69,7 @@ def dot_prod(u, v):
 Compare the result of your function with your answers to problems 6 and 7.
 
 ## Q11
-It is interesting that $`||u|| = \sqrt{u\dotu}`$ .  Prove this is true, using the relationship between dot product and cosine, and remember the value of cosine(0).  It's not hard -- work with your lab mate.
+It is interesting that $`||u|| = \sqrt{u \cdot u}`$ .  Prove this is true, using the relationship between dot product and cosine, and remember the value of cosine(0).  It's not hard -- work with your lab mate.
 
 ## Q12
 Without googling, what's the dot product of two perpendicular vectors?
