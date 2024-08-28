@@ -1,9 +1,5 @@
 #! Lab: Linear Algebra - Vectors
 
-***Note:*** This lab is being tested.  Please use the one currently on canvas.
-
-
-
 In the problems below we'll use these vectors, which I will write in text as (2,-1), (-1,2), and (1,0).
 
 ```math
