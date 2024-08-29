@@ -3,12 +3,12 @@
 
 ## Q1
 
-Suppose a matrics A has size $2 \times 3$, B has size $1 \times 3$ and C has size $3 \times 3$.
+Suppose a matrics $A$ has size $2 \times 3$, $B$ has size $1 \times 3$ and $C$ has size $3 \times 3$.
 Please answer the below questions
 
 ### Q1a
 
-Is the produce AB possible?  If so, what is its size?
+Is the produce $AB$ possible?  If so, what is its size?
 
 <details>
 <summary>Answer</summary>
@@ -30,7 +30,7 @@ Yes, the resulting matrix would be $1 \times 3$
 
 ### Q1c
 
-If C has an inverse, what is its size?
+If $C$ has an inverse, what is its size?
 
 <details>
 <summary>Answer</summary>
@@ -56,7 +56,7 @@ What is the size of $(BC)^{T}$?
 
 <details>
 <summary>Answer</summary>
-As we know from [Q1b](#q1b), the size of $BC$ is $1 \times 3$, so it's transpose would be $3 \times 1$.
+As we know from <a id="q1b">Q1B</a>, the size of $BC$ is $1 \times 3$, so it's transpose would be $3 \times 1$.
 
 </details>
 
