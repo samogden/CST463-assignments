@@ -56,7 +56,7 @@ What is the size of $(BC)^{T}$?
 
 <details>
 <summary>Answer</summary>
-As we know from <a id="q1b">Q1B</a>, the size of $BC$ is $1 \times 3$, so it's transpose would be $3 \times 1$.
+As we know from <a href="q1b">Q1B</a>, the size of $BC$ is $1 \times 3$, so it's transpose would be $3 \times 1$.
 
 </details>
 
