@@ -121,8 +121,6 @@ What is the normalized version of $v$?
 <details>
 <summary>Answer</summary>
 
-// todo
-
 ```math
 \frac{
   \begin{bmatrix}
@@ -141,8 +139,6 @@ What is the normalized version of $v$?
 \end{bmatrix}
 
 ```
-
-(2, 1) / sqrt(5) = (2/sqrt(5), 1/sqrt(5))
 
 </details>
 
