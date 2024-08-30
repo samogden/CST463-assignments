@@ -94,5 +94,117 @@ c & d
 0.3c + 0.7d
 \end{bmatrix}
 
+```
+
+<details><summary>Answer</summary>
+
+```math
+\begin{bmatrix}
+0.3 \\
+0.7
+\end{bmatrix}
 
 ```
+
+</details>
+
+### Q2b
+
+```math
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
+%
+\begin {bmatrix}
+?
+\end{bmatrix}
+=
+\begin{bmatrix}
+b & a \\
+d & c
+\end{bmatrix}
+
+```
+
+<details><summary>Answer</summary>
+
+```math
+\begin{bmatrix}
+0 & 1 \\
+1 & 0
+\end{bmatrix}
+
+```
+
+</details>
+
+### Q2b
+
+```math
+\begin {bmatrix}
+?
+\end{bmatrix}
+%
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
+=
+\begin{bmatrix}
+b & a \\
+d & c
+\end{bmatrix}
+
+```
+
+<details><summary>Answer</summary>
+
+```math
+\begin{bmatrix}
+0 & 1 \\
+1 & 0
+\end{bmatrix}
+
+```
+
+Notice the solution is the same as the previous problem.  When it is used after another matrix it's a "column swapper", but when it's used before another matrix it's a "row swapper".
+
+</details>
+
+## Q3
+
+Complete the Jupyter notebook [lab1-matrices.ipynb](lab1-matrices.ipynb).
+
+## Q4
+
+With matrix addition, do the two matrices involves always have to be the same size?
+
+<details><summary>Answer</summary>
+Yes.
+
+</details>
+
+## Q5
+
+Prove that matrix addition is commutative.
+
+<details><summary>Hint</summary>
+Try _showing_ this for a specific size matrix, such as $A = \begin{bmatrix}a & b \\ c & d\end{matrix}$ and think about why it would be.
+</details>
+
+## Q6
+
+Is it true that, for every matrix $A$ there exists another matrix $B$ such that $A+B = \begin{bmatrix}0\end{bmatrix}_{u \times v}$ , where \begin{bmatrix}0\end{bmatrix}_{u \times v}$ is the zero matrix the size of $A$ and $B$?
+
+
+<details><summary>Answer</summary>
+Yes!  
+Since addition is element-wise, if we just set every value in our matrix $B$ to the negative of the value in $A$ we can get the zero matric.
+
+</details>
+
+
+## Extra Reading
+
+- http://linear.ups.edu/html/section-VO.html
