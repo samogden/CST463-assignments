@@ -72,3 +72,27 @@ Since $C$ is a square matrix multiplication by itself is possible and result in 
 Therefore, this should be possible!
 
 </details>
+
+## Q2
+
+What entries replace the question marks in the below matrices?  Note, there may be more than one entry per question mark.
+
+### Q2a
+
+```math
+\begin{bmatrix}
+a b \\
+c d
+\end{bmatrix}
+%
+\begin {bmatrix}
+?
+\end{bmatrix}
+=
+\begin{bmatrix}
+0.3a + 0.7b \\
+0.3c + 0.7d
+\end{bmatrix}
+
+
+```
