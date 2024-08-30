@@ -167,7 +167,15 @@ It is interesting that $`||u|| = \sqrt{u \cdot u}`$ .  Prove this is true, using
 <details>
 <summary>Answer</summary>
 
-// todo
+```math
+
+u \cdot u
+= \norm{u} \norm{u} cost(\phi) 
+= \norm{u} \norm{u} 1
+= \norm{u} \norm{u} 
+= \sqrt{u u}
+
+```
 
 </details>
 
