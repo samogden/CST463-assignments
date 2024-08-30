@@ -170,9 +170,9 @@ It is interesting that $`||u|| = \sqrt{u \cdot u}`$ .  Prove this is true, using
 ```math
 
 u \cdot u
-= \norm{u} \norm{u} cost(\phi) 
-= \norm{u} \norm{u} 1
-= \norm{u} \norm{u} 
+= \left\lVert u \right\rVert \left\lVert u \right\rVert cost(\phi) 
+= \left\lVert u \right\rVert \left\lVert u \right\rVert 1
+= \left\lVert u \right\rVert \left\lVert u \right\rVert 
 = \sqrt{u u}
 
 ```
