@@ -81,8 +81,8 @@ What entries replace the question marks in the below matrices?  Note, there may 
 
 ```math
 \begin{bmatrix}
-a b \\
-c d
+a & b \\
+c & d
 \end{bmatrix}
 %
 \begin {bmatrix}
