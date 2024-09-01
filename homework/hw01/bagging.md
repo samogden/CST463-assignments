@@ -12,7 +12,7 @@ In this assignment you will develop a deeper understand of them.
 
 Read chapter 7 of our text `Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow` up to, but not including, the `Boosting` section.
 
-Answer the following questions by editing the file [bagging.txt] with a text editor.
+Answer the following questions by editing the file [bagging.txt](bagging.txt) with a text editor.
 Be sure that you save your editted file as a `.txt` file -- not a pdf file, Word file, etc.
 
 ## Questions
