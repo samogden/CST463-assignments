@@ -1,0 +1,32 @@
+
+# Instructions: edit this file to provide your homework answers.
+# Problem numbers are shown on lines that begin with #@.
+# Put your solution to a problem after the line that gives
+# the number of that problem. Don't modify the file in any other
+# way.  Blank lines are ignored.
+
+#@ 1 -- enter a number
+
+#@ 2 -- enter a number
+
+#@ 3 -- enter a vector (see assignment for formatting info)
+
+#@ 4 -- enter a matrix
+
+#@ 5 -- enter a matrix
+
+#@ 6 -- enter 'Y' or 'N'  (don't use quotes)
+
+#@ 7 -- enter an expression of the form 'expr x expr', where expr is an expression involving m and/or n
+
+#@ 8 -- enter a matrix
+
+#@ 9 -- enter a matrix
+
+#@ 10 -- enter a vector
+
+
+
+
+
+
