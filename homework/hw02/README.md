@@ -8,7 +8,7 @@ All homework is to be done on your own.
 There are three parts to this homework:
 1. (20%) [Reading](reading.md)
 2. (30%) [Linear Algebra](linear-algebra.md)
-3. (50%) [Principle Component Analysis](pca.md)
+3. (50%) [Principle Component Analysis](PCA_prediction.ipynb)
 
 ## Submission
 
