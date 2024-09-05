@@ -16,9 +16,7 @@ For numbers, please use simplified fractions, not decimal numbers.
 ## Questions
 
 ### Q1
-Every linear combination of vectors 
-$\begin{bmatrix} 1 & -2 & 1 \end{bmatrix}$
-and 
+Every linear combination of vectors $\begin{bmatrix} 1 & -2 & 1 \end{bmatrix}$ and 
 $\begin{bmatrix} 0 & 1 & -1 \end{bmatrix}$
 has components that add to ______?  (The "components" of a vector are the elements of the vector.)
 
