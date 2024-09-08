@@ -73,11 +73,13 @@ If the size of matrix $`A`$ is $`m`$ by $`n`$, then what is the size of $`A^{T} 
 Suppose we have the following equations:
 
 ```math
+\displaylines{
 x + 2y + 3z = 0 \\
 
 2x + 5y + 2z = 4 \\
 
 6x - 3y + z = 2 \\
+}
 ```
 
 These equations can be written in matrix form as an equation $Ax = b$. 
