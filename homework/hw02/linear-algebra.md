@@ -53,7 +53,7 @@ What is $`AB`$?
 
 $`A = \begin{bmatrix} 1 & 2 & 4 \\ 2 & 0 & 1 \end{bmatrix}`$
 and
-$`B = \begin{bmatrix} 3 & 1 & 1 \end{bmatrix}`$
+$`B = \begin{bmatrix} 3 \\ 1 \\ 1 \end{bmatrix}`$
 
 What is $`AB`$?
 
