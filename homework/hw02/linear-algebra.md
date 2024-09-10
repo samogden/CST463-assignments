@@ -37,7 +37,7 @@ $`r = \begin{bmatrix} 2 & -1 \end{bmatrix}`$
 and vector 
 $`s = \begin{bmatrix} -1 & 2 \end{bmatrix}`$
 .  
-Then what is the vector $x$ (of length 2) such that it has the dot products $` x \cdot r = 1`$ and $` x \cdot s = 0`$?
+Then what is the vector $x$ (with 2 elements) such that it has the dot products $` x \cdot r = 1`$ and $` x \cdot s = 0`$?
 
 
 ### Q4
