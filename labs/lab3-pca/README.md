@@ -8,7 +8,7 @@ Try to answer from memory and only use the hints when you absolutely need to.
 
 ### Q1
 
-Name the two general approaches to dimensionality reduction that we discussed
+Name the general approaches to dimensionality reduction that we discussed
 
 <details><summary>Answer</summary>
 
