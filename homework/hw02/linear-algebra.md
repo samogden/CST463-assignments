@@ -104,7 +104,7 @@ $`Av = \begin{bmatrix} 2 & 0 \end{bmatrix}`$
 .
 
 If
-$`w = \begin{bmatrix} -1, 4 \end{bmatrix}`$
+$`w = \begin{bmatrix} -1 \\ 4 \end{bmatrix}`$
 then what is $`Aw`$?
 
 Provide a vector.
