@@ -98,9 +98,9 @@ Suppose
 $`u = \begin{bmatrix} 2  \\ 1 \end{bmatrix}`$,
 $`v = \begin{bmatrix} -1 \\ 3 \end{bmatrix}`$,
 and matrix $A$ such that
-$`Au = \begin{bmatrix} 5 & 6 \end{bmatrix}`$
+$`Au = \begin{bmatrix} 5 \\ 6 \end{bmatrix}`$
 and
-$`Av = \begin{bmatrix} 2 & 0 \end{bmatrix}`$
+$`Av = \begin{bmatrix} 2 \\ 0 \end{bmatrix}`$
 .
 
 If
