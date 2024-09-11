@@ -1,0 +1,26 @@
+
+# Instructions: edit this file to provide your homework answers.
+# Problem numbers are shown on lines that begin with #@.
+# Put your solution to a problem after the line that gives
+# the number of that problem. Don't modify the file in any other
+# way.  Blank lines are ignored.
+
+#@ 1 -- enter a matrix
+
+#@ 2 -- enter a number
+
+#@ 3 -- enter 'Y' or 'N'  (don't use quotes)
+
+#@ 4 -- enter 'Y' or 'N'
+
+#@ 5 -- enter a number
+
+#@ 6 -- enter a number
+
+#@ 7 -- enter 'T' or 'F' 
+
+
+
+
+
+
