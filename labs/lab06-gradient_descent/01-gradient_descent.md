@@ -39,7 +39,7 @@ What is $` \frac{df}{dx} `$?
 
 <details><summary>Answer</summary>
 
-$` \frac{df}{dx} = -2x - 4`$?
+$` \frac{df}{dx} = -2x + 2`$?
 
 </details>
 
