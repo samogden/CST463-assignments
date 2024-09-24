@@ -1,4 +1,4 @@
 # HW05
 
 - [ ] (84%) [1.md](1.md)
-- [ ] Reading quiz on canvas
+- [ ] (16%) Reading quiz on canvas
