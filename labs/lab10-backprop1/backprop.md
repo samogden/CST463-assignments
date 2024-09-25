@@ -8,7 +8,7 @@ Here are the equations for the logistic regression network in lecture:
 ```math
 
 \begin{matrix}
-u = \Beta_0 + \Beta_1 x_1 + \Beta_2 x_2 \\
+u = \beta_0 + \beta_1 x_1 + \beta_2 x_2 \\
 v = \sigma(u) \\
 z = -(y log(v) + (1-y) log(1-v))
 \end{matrix}
