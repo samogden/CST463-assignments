@@ -7,9 +7,11 @@ Work closely with your team; compare your answers and resolve any differences.
   We will assume these values:
 
 ```math
+\begin{matrix}
 x = (1, 0.5, 2.0) \\
 b = (0.1, 1, 0.5) \\
 y = 0 \\
+\end{matrix}
 
 ```
 
