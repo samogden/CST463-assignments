@@ -19,9 +19,9 @@ $\sigma(u)$ is the sigmoid function.
 Work out the partial derivatives of z with respect to each of the $\beta$ variables.  
 Use the multivariable chain rules and these basic derivatives:
 
-- if $`y = sigma(x)`$, then $`\frac{\delta y}{delta x} = \sigma(x)(1 - \sigma(x))`$
-- if $`y = log(x)`$, then $`\frac{\delta y}{delta x} = \frac{1}{x}`$
-- if $`y = log(1-x)`$, then $`\frac{\delta y}{delta x} = \frac{-1}{1-x}`$
+- if $`y = sigma(x)`$, then $`\frac{\delta y}{\delta x} = \sigma(x)(1 - \sigma(x))`$
+- if $`y = log(x)`$, then   $`\frac{\delta y}{\delta x} = \frac{1}{x}`$
+- if $`y = log(1-x)`$, then $`\frac{\delta y}{\delta x} = \frac{-1}{1-x}`$
 
 The last of these rules can be derived using the chain rule.
 
