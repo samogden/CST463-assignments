@@ -16,10 +16,8 @@ y = 0 \\
 ```
 
 ## Q1
-Using paper/pencil/calculator/Python console, and your answers from the previous lab, manually work through steps 1-6 of slide 5 of the lecture.  
-Do not code up the process.  
-See if you get the same answer as your teammates.  
-I want to make sure you understand the process.
+Using paper/pencil/calculator/Python console, and your answers from the previous lab, manually work through steps 1-6 of slide 5 of the lecture.  Do not code up the process.  
+See if you get the same answer as your teammates.  I want to make sure you understand the process.
 
 ## Q2
 Compare the result to what you'd get if you used your result from the last lab (in other words, if you used ∂z/∂β_0, etc.).
