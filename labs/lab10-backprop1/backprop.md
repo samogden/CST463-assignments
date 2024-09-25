@@ -16,7 +16,7 @@ z = -(y log(v) + (1-y) log(1-v))
 ```
  
 $\sigma(u)$ is the sigmoid function.  
-Work out the partial derivatives of z with respect to each of the $\Beta$ variables.  
+Work out the partial derivatives of z with respect to each of the $\beta$ variables.  
 Use the multivariable chain rules and these basic derivatives:
 
 - if $y = sigma(x)$, then $\frac{\delta y}{$delta x} = \sigma(x)(1 - \sigma(x))$
