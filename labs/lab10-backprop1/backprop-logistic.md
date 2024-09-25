@@ -20,7 +20,7 @@ Using paper/pencil/calculator/Python console, and your answers from the previous
 See if you get the same answer as your teammates.  I want to make sure you understand the process.
 
 ## Q2
-Compare the result to what you'd get if you used your result from the last lab (in other words, if you used ∂z/∂β_0, etc.).
+Compare the result to what you'd get if you used your result from the last lab (in other words, if you used $`\frac{\delta z}{\beta_0}`$, etc.).
 
 ### Q3
 If you still have time, modify the diagram we have for logistic regression so that it captures linear regression.
