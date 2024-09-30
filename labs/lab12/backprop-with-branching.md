@@ -8,7 +8,7 @@ Below is a picture of part of a neural network.
 The variable z represents the output of the loss function.  
 The circles represent neurons with the sigmoid function as the activation function.   
 We are interested in the layer that has c and d for output.  
-We are going to assume we're part way through backprop and have already computed $`\frac{\delta z}{\delta c}`$ and $`\frac{\delta z}{\delta d}`$.  Assume the values are $`\frace{\delta z}{\delta c} = 2`$ and $`\frac{\delta z}{\delta d} = 3`$.  Also, assume the following values: $`a = -1`$, $`b = 0.5`$, $`w1 = 1.5`$, $`w2 = -0.5`$, $`w3 = 2.1`$, $`w4 = 2`$.  From these, compute $`c`$ and $`d`$.
+We are going to assume we're part way through backprop and have already computed $`\frac{\delta z}{\delta c}`$ and $`\frac{\delta z}{\delta d}`$.  Assume the values are $`\frac{\delta z}{\delta c} = 2`$ and $`\frac{\delta z}{\delta d} = 3`$.  Also, assume the following values: $`a = -1`$, $`b = 0.5`$, $`w1 = 1.5`$, $`w2 = -0.5`$, $`w3 = 2.1`$, $`w4 = 2`$.  From these, compute $`c`$ and $`d`$.
 
 ![network.png](network.png)
 
