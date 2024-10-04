@@ -1,0 +1,6 @@
+'1':
+  location: rubrics/assign-reading-bagging.yaml
+  weight: 15
+'2':
+  location: rubrics/assign-ensemble.yaml
+  weight: 85
