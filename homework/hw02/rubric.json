@@ -1,0 +1,14 @@
+{ 
+    "1": {
+	"location" : "assign-reading-dim-reduction" ,
+	"weight" : 20
+    },
+    "2": {
+	"location" : "assign-lin-alg-1" ,
+	"weight" : 30 
+    },
+    "3": {
+	"location" : "assign-pca-diamonds" ,
+	"weight" : 50
+    }
+}
