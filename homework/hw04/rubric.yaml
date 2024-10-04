@@ -1,0 +1,6 @@
+'1':
+  location: assign-reading-grad-desc
+  weight: 15
+'2':
+  location: assign-grad-desc-lin-regr
+  weight: 85

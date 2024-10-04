@@ -1,0 +1,6 @@
+'1':
+  location: assign-cnn
+  weight: 15
+'2':
+  location: assign-fruit-siamese
+  weight: 85

@@ -1,0 +1,12 @@
+'1':
+  location: assign-linear-algebra-2
+  weight: 20
+'2':
+  location: assign-dim-reduct-viz
+  weight: 30
+'3':
+  location: assign-derivatives-analytically
+  weight: 20
+'4':
+  location: assign-grad-descent-basics
+  weight: 30

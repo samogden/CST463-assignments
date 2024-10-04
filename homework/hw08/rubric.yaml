@@ -1,0 +1,9 @@
+'1':
+  location: assign-training-neural-nets
+  weight: 15
+'2':
+  location: assign-overfitting-regularization
+  weight: 15
+'3':
+  location: assign-cifar10
+  weight: 70
