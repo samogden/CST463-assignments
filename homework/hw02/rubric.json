@@ -1,14 +1,14 @@
 { 
     "1": {
-	"location" : "assign-reading-dim-reduction" ,
+	"location" : "rubrics/reading-dim-reduction.json" ,
 	"weight" : 20
     },
     "2": {
-	"location" : "assign-lin-alg-1" ,
+	"location" : "rubrics/lin-alg-1.json" ,
 	"weight" : 30 
     },
     "3": {
-	"location" : "assign-pca-diamonds" ,
+	"location" : "rubrics/pca-diamonds.json" ,
 	"weight" : 50
     }
 }
