@@ -1,0 +1,6 @@
+'1':
+  location: assign-rnn-reading
+  weight: 15
+'2':
+  location: assign-rnn-activity-recognition
+  weight: 85
