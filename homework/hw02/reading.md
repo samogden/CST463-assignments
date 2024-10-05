@@ -29,7 +29,7 @@ Suppose your data set has m rows and n columns (each column is a feature).  If y
 
 ### Q4
 
-We can get the total variance of a data set by adding up the variance of each feature.  Is the total variance affected by a change in basis?   (In other words, by changing the vectors we use to describe the data.)
+We can get the total variance of a data set by adding up the variance of each feature.  Is the total variance affected by an orthogonal change in basis?   (In other words, by changing the vectors we use to describe the data by rotations and reflections.)
 
 
 ### Q5
