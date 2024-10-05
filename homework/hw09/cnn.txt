@@ -1,0 +1,30 @@
+
+# Instructions: edit this file to provide your homework answers.
+# Problem numbers are shown on lines that begin with #@.
+#
+# Please put your solution to a problem after the line that gives
+# the number of that problem.  Each problem shows how your answer
+# should be given.
+#
+# Do not modify this file *except* to add lines as needed after each problem.
+# Blank lines are ignored.
+
+#@ 1 -- enter three numbers, formatted like this: (12,12,24).  Use no spaces.
+
+#@ 2 -- enter a number
+
+#@ 3 -- enter three numbers, formatted like this: (12,12,24).  Use no spaces.
+
+#@ 4 -- enter three numbers, formatted like this: (12,12,24).  Use no spaces.
+
+#@ 5 -- enter a number
+
+#@ 6 -- enter 'a', 'b', or 'c'
+
+#@ 7 -- enter 'a', 'b', or 'c'
+
+#@ 8 -- enter 'a', 'b', or 'c'
+
+
+
+
