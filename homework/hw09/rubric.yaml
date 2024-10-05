@@ -1,6 +1,6 @@
 '1':
-  location: assign-cnn
+  location: rubrics/assign-cnn.yaml
   weight: 15
 '2':
-  location: assign-fruit-siamese
+  location: rubrics/assign-fruit-siamese.yaml
   weight: 85

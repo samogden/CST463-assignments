@@ -1,9 +1,9 @@
 '1':
-  location: assign-reading-dim-reduction
+  location: rubrics/assign-reading-dim-reduction.yaml
   weight: 20
 '2':
-  location: assign-lin-alg-1
+  location: rubrics/assign-lin-alg-1.yaml
   weight: 30
 '3':
-  location: assign-pca-diamonds
+  location: rubrics/assign-pca-diamonds.yaml
   weight: 50

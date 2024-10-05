@@ -1,6 +1,6 @@
 '1':
-  location: assign-reading-grad-desc
+  location: rubrics/assign-reading-grad-desc.yaml
   weight: 15
 '2':
-  location: assign-grad-desc-lin-regr
+  location: rubrics/assign-grad-desc-lin-regr.yaml
   weight: 85

@@ -1,12 +1,12 @@
 '1':
-  location: assign-linear-algebra-2
+  location: rubrics/assign-linear-algebra-2.yaml
   weight: 20
 '2':
-  location: assign-dim-reduct-viz
+  location: rubrics/assign-dim-reduct-viz.yaml
   weight: 30
 '3':
-  location: assign-derivatives-analytically
+  location: rubrics/assign-derivatives-analytically.yaml
   weight: 20
 '4':
-  location: assign-grad-descent-basics
+  location: rubrics/assign-grad-descent-basics.yaml
   weight: 30

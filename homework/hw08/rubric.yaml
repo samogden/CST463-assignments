@@ -1,9 +1,9 @@
 '1':
-  location: assign-training-neural-nets
+  location: rubrics/assign-training-neural-nets.yaml
   weight: 15
 '2':
-  location: assign-overfitting-regularization
+  location: rubrics/assign-overfitting-regularization.yaml
   weight: 15
 '3':
-  location: assign-cifar10
+  location: rubrics/assign-cifar10.yaml
   weight: 70
