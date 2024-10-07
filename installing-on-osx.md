@@ -114,3 +114,68 @@ Successfully installed tensorflow-metal-1.1.0
 ```
 
 
+### Step 7
+
+Install Keras
+
+```shell
+(cst463)
+[Sun Oct  6 21:20:25 2024]
+/Users/ssogden/repos/classes/CST463-assignments/labs/week07
+$ conda install keras
+Channels:
+ - defaults
+Platform: osx-arm64
+Collecting package metadata (repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /Users/ssogden/miniconda3/envs/cst463
+
+  added / updated specs:
+    - keras
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    absl-py-2.1.0              |  py310hca03da5_0         198 KB
+    h5py-3.11.0                |  py310haafd478_0         1.2 MB
+    keras-3.4.1                |  py310hca03da5_0         2.2 MB
+    markdown-it-py-2.2.0       |  py310hca03da5_1         114 KB
+    mdurl-0.1.0                |  py310hca03da5_0          19 KB
+    ml_dtypes-0.4.0            |  py310h46d7db6_0         142 KB
+    namex-0.0.7                |  py310hca03da5_0          14 KB
+    optree-0.12.1              |  py310h48ca7d4_0         293 KB
+    rich-13.7.1                |  py310hca03da5_0         505 KB
+    ------------------------------------------------------------
+                                           Total:         4.7 MB
+
+The following NEW packages will be INSTALLED:
+
+  absl-py            pkgs/main/osx-arm64::absl-py-2.1.0-py310hca03da5_0
+  h5py               pkgs/main/osx-arm64::h5py-3.11.0-py310haafd478_0
+  keras              pkgs/main/osx-arm64::keras-3.4.1-py310hca03da5_0
+  markdown-it-py     pkgs/main/osx-arm64::markdown-it-py-2.2.0-py310hca03da5_1
+  mdurl              pkgs/main/osx-arm64::mdurl-0.1.0-py310hca03da5_0
+  ml_dtypes          pkgs/main/osx-arm64::ml_dtypes-0.4.0-py310h46d7db6_0
+  namex              pkgs/main/osx-arm64::namex-0.0.7-py310hca03da5_0
+  optree             pkgs/main/osx-arm64::optree-0.12.1-py310h48ca7d4_0
+  rich               pkgs/main/osx-arm64::rich-13.7.1-py310hca03da5_0
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+```
+
+
+
+
