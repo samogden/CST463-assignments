@@ -5,7 +5,7 @@
 The purpose of this project is to give you some experience in a realistic deep-learning project.   By 'realistic' I mean that you can take advantage of any resources you can find.
 
 ## Instructions
-- Select a project from the list of project ideas.
+- Select a project from the [list of project ideas](project_ideas.md).
 - Figure out how to solve the problem.  This will involve reviewing course material and web research to see how others have solved it.  It is okay to borrow code, to use ChatGPT, etc., but you must document every resource you use.
 - Since you won't have a lot of time and probably won't have a lot of data, I expect you to try to leverage a pretrained model (see Section 8.3 of Chollet, Section 'Reusing Pretrained Layers' in Chapter 10 of Geron, and Section 'Hugging Face’s Transformers Library' in Chapter 16 of Geron).  You  may want to compare your results when you don't leverage a pretrained model with when you do.  Also, don't forget about the possibility of using pretrained embeddings, like GloVe.
 - You must go beyond solutions that you find.  For example, if you are working on a classification problem, can you achieve better accuracy?
