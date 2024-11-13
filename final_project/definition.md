@@ -3,7 +3,7 @@
 The purpose of the project definition is to make sure you can hit the ground running with your project work. 
 ## Instructions
 - Work closely with your team.
-- Discuss project ideas and copy and fill out [the template project definition document](Project-definition-template.docx).
+- Discuss project ideas and copy and fill out [the template project definition document](definition-template.docx).
 
 ## Submission
 
