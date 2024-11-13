@@ -33,19 +33,19 @@ I will also ask you to complete a questionnaire in which you will estimate how m
 I will assess your project using your final report and on teamwork.  The max score is 100.  
 
 Grading components:
-- 30: baseline results
+- (30%) baseline results
   - Code that works and demonstrates that your baseline milestone was reached.
-- 20: final results
-- Co  ing serious effort in trying to go beyond the baseline.
-- 25: engineering judgment
+- (20%) final results
+  - Coding serious effort in trying to go beyond the baseline.
+- (25%) engineering judgment
   - Do you do sensible things?  Did you do the sensible things first?  Did you try to get past obstacles in a sensible way?  
   - Was your work informed by your broad knowledge of data science and machine learning?
-- 25: documentation
+- (25%) documentation
   - Is your notebook clear and well-organized?  There should be clear sections, and each section should start with a sentence or two of text.
   - Did you document the sources you borrowed from?  Did you make clear what you borrowed and what you developed yourself?
   - Were your results clearly spelled out?  Did you use appropriate plots in doing so?
   - Did you clearly summarize the main challenges that you faced?
-- (+/- 10 points) teamwork and participation
+- (+/- 10%) teamwork and participation
   - Did you participate?
   - Did you attend class every project day?
   - Were you a good team player?
