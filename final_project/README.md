@@ -16,9 +16,9 @@ The purpose of this project is to give you some experience in a realistic deep-l
 
 There are three submissions:
 
-1. ***Proposal***: details can be found in [proposal.md](proposal.md)
-2. ***Update***: details can be found in [update.md](update.md)
-3. ***Final Submission***: details can be found below, in [Final Submission](#final-submission)
+1. ***Proposal***: (10%) details can be found in [proposal.md](proposal.md)
+2. ***Update***: (15%) details can be found in [update.md](update.md)
+3. ***Final Submission***: (75%) details can be found below, in [Final Submission](#final-submission)
 
 ### Final Submission
 
