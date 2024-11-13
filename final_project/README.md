@@ -14,6 +14,14 @@ The purpose of this project is to give you some experience in a realistic deep-l
 
 ## Submission
 
+There are three submissions:
+
+1. ***Proposal***: details can be found in [proposal.md](proposal.md)
+2. ***Update***: details can be found in [update.md](update.md)
+3. ***Final Submission***: details can be found below, in [Final Submission](#final-submission)
+
+### Final Submission
+
 Each team will submit one ipynb file that shows code and all output.  The team member responsible for submitting is shown on the project teams sheet -- only the submitter of each team will submit.  Coordinate with your teammates!!
 
 ***Late submissions are absolutely not accepted***, so don’t submit at the last minute.
