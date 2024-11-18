@@ -4,6 +4,8 @@
 
 The purpose of this project is to give you some experience in a realistic deep-learning project.   By 'realistic' I mean that you can take advantage of any resources you can find.
 
+You will be working in a group of 3-4 students, that you are welcome to self-select or let me know if you want me to randomly assign you to a group.
+
 ## Instructions
 - Select a project from the [list of project ideas](project_ideas.md).
 - Figure out how to solve the problem.  This will involve reviewing course material and web research to see how others have solved it.  It is okay to borrow code, to use ChatGPT, etc., but you must document every resource you use.
